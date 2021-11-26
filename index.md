@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 김진우 포트폴리오
 
 You can use the [editor on GitHub](https://github.com/tigre911/portfoilo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
