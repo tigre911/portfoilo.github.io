@@ -2,20 +2,22 @@
 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 학력
+1995.11.25
+대성고등학교 졸업(20**.02)
+충남대학교 환경소재공학과 졸업(2022.02)
 
 ```markdown
 Syntax highlighted code block
 
-# Python Project
-* **Bold**데이터 분석
+## Python Project
+* 데이터 분석
     - 머신러닝
 
-# Java Project
-* **Bold**Web
+## Java Project
+* Web
     - spring
+
 ### Header 3
 
 - Bulleted
