@@ -87,7 +87,7 @@ menu:
 
 ```yml
 menu:
-  - text: Portfolio
+  - text: Home
     link: /
     icon: ""
 
