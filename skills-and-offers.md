@@ -17,3 +17,9 @@
 <!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp 
  -->
 </p>
+<br>
+<br>
+<p align="center">
+ 웹 : 자바, 스프링 프레임워크, 마리아DB
+ 데이터 분석 : 파이썬, 데이터 크롤링, 머신러닝, 딥러닝 
+ </p>
