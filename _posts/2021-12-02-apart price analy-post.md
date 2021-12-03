@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 강남구 평균 아파트 가격 예측 분석 프로그램
-date: 2021-11-30 16:32:20 +0300
-description: spring # Add post description (optional)
+date: 2021-12-02 09:32:20 +0300
+description: python3 # Add post description (optional)
 image: "https://github.com/tigre911/myPython/blob/main/apartAnaly/dongAnaly/dongsGraph.jpg"
 fig-caption: # Add figcaption (optional)
 tags: [python, datacrolling, python3,]
