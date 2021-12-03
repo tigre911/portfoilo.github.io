@@ -5,7 +5,7 @@ date: 2021-12-02 09:32:20 +0300
 description: python3 # Add post description (optional)
 image: "https://github.com/tigre911/myPython/blob/main/apartAnaly/dongAnaly/dongsGraph.jpg"
 fig-caption: # Add figcaption (optional)
-tags: [python, datacrolling, python3,]
+tags: [python, dataanalysis, python3,]
 ---
 
 사용 언어 : Python3<br>
