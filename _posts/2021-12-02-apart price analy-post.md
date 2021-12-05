@@ -3,7 +3,7 @@ layout: post
 title: 강남구 평균 아파트 가격 예측 분석 프로그램
 date: 2021-12-02 09:32:20 +0300
 description: python3 # Add post description (optional)
-image: "https://github.com/tigre911/myPython/blob/main/apartAnaly/dongAnaly/dongsGraph.jpg"
+image: "https://github.com/tigre911/portfoilo.github.io/blob/gh-pages/assets/images/dongsGraph.jpg"
 fig-caption: # Add figcaption (optional)
 tags: [python, dataanalysis, python3,]
 ---
@@ -12,7 +12,7 @@ tags: [python, dataanalysis, python3,]
 
 분석 목적 : 연도별 강남구 동마다 평균 평당 아파트가격을 측정해 현재(2021)이후의 가격을 회귀분석을 통해 예측한다.
 
-<img src="https://github.com/tigre911/myPython/blob/main/apartAnaly/dongAnaly/dongsGraph.jpg">
+<img src="https://github.com/tigre911/portfoilo.github.io/blob/gh-pages/assets/images/dongsGraph.jpg">
 
 code
 ```python
