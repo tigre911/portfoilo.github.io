@@ -54,8 +54,8 @@ social_icons:
     link: https://github.com/tigre911
     icon: fab fa-github-square
 
-  - name: velog
-    link: https://velog.io/@tigre911
+  - name: tistory
+    link: https://tigre911.tistory.com/
     icon: fab fa-blogger-b
 
   - name: instargram
