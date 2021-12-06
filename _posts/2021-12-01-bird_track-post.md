@@ -3,7 +3,7 @@ layout: post
 title: Bird Track
 date: 2021-11-30 16:32:20 +0300
 description: spring # Add post description (optional)
-image: ../assets/images/bird_track.jpg
+image: https://github.com/tigre911/portfoilo.github.io/blob/gh-pages/assets/images/bird_track.jpg?raw=true
 fig-caption: # Add figcaption (optional)
 tags: [python, datacrolling, python3, ]
 ---
