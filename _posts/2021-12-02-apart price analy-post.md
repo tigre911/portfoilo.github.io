@@ -12,7 +12,7 @@ tags: [python, dataanalysis, python3,]
 
 분석 목적 : 연도별 강남구 동마다 평균 평당 아파트가격을 측정해 현재(2021)이후의 가격을 회귀분석을 통해 예측한다.
 
-<img src="../assets/images/dongsGraph.jpg" alt="아파트 가격 분석 그래프">
+<img src="https://github.com/tigre911/portfoilo.github.io/blob/gh-pages/assets/images/dongsGraph.jpg?raw=true" alt="아파트 가격 분석 그래프">
 
 code
 ```python
