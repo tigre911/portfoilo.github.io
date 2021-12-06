@@ -58,7 +58,7 @@ plt.ylabel('Elapsed(days)')
 plt.show()
 ```
 
-<img src= ../assets/images/bird_graph.jpg width="100%" height="100%">
+<img src= "https://github.com/tigre911/portfoilo.github.io/blob/gh-pages/assets/images/bird_graph.jpg?raw=true" width="100%" height="100%">
 
 
 ```py
@@ -79,4 +79,4 @@ plt.legend(loc='upper left')
 plt.show()
 ```
 
-<img src= ../assets/images/bird_track.jpg width="100%" height="100%">
+<img src= ".https://github.com/tigre911/portfoilo.github.io/blob/gh-pages/assets/images/bird_track.jpg?raw=true" width="100%" height="100%">
