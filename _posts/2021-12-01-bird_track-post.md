@@ -79,4 +79,4 @@ plt.legend(loc='upper left')
 plt.show()
 ```
 
-<img src= ".https://github.com/tigre911/portfoilo.github.io/blob/gh-pages/assets/images/bird_track.jpg?raw=true" width="100%" height="100%">
+<img src= "https://github.com/tigre911/portfoilo.github.io/blob/gh-pages/assets/images/bird_track.jpg?raw=true" width="100%" height="100%">
