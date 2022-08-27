@@ -207,7 +207,7 @@ menu:
     link: /posts
     icon: ""
 ```
-
+.
 ...and you're good
 
 More post features are coming soon. To get updates on new features, hit the `Watch` button at the top of this page to get notifications.
